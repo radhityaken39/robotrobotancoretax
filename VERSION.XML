@@ -1,5 +1,6 @@
 <appinfo>
-  <version>1.4.1</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update141.zip</url>
-
+  <version>1.4.2</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update142.zip</url>
+  <versionUpdater>1.0.1</version>
+  <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</url>
 </appinfo>
