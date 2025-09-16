@@ -1,15 +1,15 @@
 <appinfo>
-  <version>1.4.5</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update145.zip</url>
-  <isMust>true</isMust>
-  <deskripsi>Perbaikan : 
-1. contoh
-2. contoh
-3. contoh
+  <version>1.4.6</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update146.zip</url>
+  <isMust>false</isMust>
+  <deskripsi>Perbaikan 146 : 
+1. validasi resubmit : handle nilai kompen 0
+2. flag force auto update
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
+
 
 
 
