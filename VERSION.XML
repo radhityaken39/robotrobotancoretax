@@ -1,7 +1,7 @@
 <appinfo>
   <version>1.4.5</version>
   <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update145.zip</url>
-  <isMust>false</isMust>
+  <isMust>true</isMust>
   <deskripsi>Perbaikan : 
 1. contoh
 2. contoh
@@ -10,6 +10,7 @@
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
+
 
 
 
