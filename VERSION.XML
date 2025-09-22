@@ -1,7 +1,7 @@
 <appinfo>
   <version>1.4.7</version>
   <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update147.zip</url>
-  <isMust>true</isMust>
+  <isMust>TRUE</isMust>
   <deskripsi>Perbaikan 147 : 
 1. menambahkan password untuk transaksi masal dan deleted
 
@@ -12,6 +12,7 @@ Perbaikan 146 :
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
+
 
 
 
