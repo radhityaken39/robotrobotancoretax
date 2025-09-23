@@ -1,9 +1,10 @@
 <appinfo>
-  <version>1.4.7</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update147.zip</url>
-  <isMust>TRUE</isMust>
-  <deskripsi>Perbaikan 147 : 
-1. menambahkan password untuk transaksi masal dan deleted
+  <version>1.4.8</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update148.zip</url>
+  <isMust>false</isMust>
+  <deskripsi>Perbaikan 148 : password bug fixing
+
+Perbaikan 147 : menambahkan password untuk transaksi masal dan deleted
 
 Perbaikan 146 : 
 1. validasi resubmit : handle nilai kompen 0
