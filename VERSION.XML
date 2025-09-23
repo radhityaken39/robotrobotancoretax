@@ -1,7 +1,7 @@
 <appinfo>
   <version>1.4.8</version>
   <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update148.zip</url>
-  <isMust>false</isMust>
+  <isMust>true</isMust>
   <deskripsi>Perbaikan 148 : password bug fixing
 
 Perbaikan 147 : menambahkan password untuk transaksi masal dan deleted
@@ -13,3 +13,4 @@ Perbaikan 146 :
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
+
