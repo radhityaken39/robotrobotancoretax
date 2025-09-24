@@ -1,6 +1,6 @@
 <appinfo>
   <version>1.4.9</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update148.zip</url>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update149.zip</url>
   <isMust>false</isMust>
   <deskripsi>Perbaikan 149 : tambah fitur cancel booking tam, partial, apapun status SPT-nya
 
@@ -15,4 +15,5 @@ Perbaikan 146 :
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
+
 
