@@ -1,11 +1,13 @@
 <appinfo>
   <version>1.4.8</version>
   <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update148.zip</url>
-  <isMust>true</isMust>
-  <deskripsi>Perbaikan 148 : password bug fixing
+  <isMust>false</isMust>
+  <deskripsi>Perbaikan 149 : tambah fitur cancel booking tam, partial, apapun status SPT-nya
 
+Perbaikan 148 : 
+1. password bug fixing
+2. fixing atas fixing retur telo
 Perbaikan 147 : menambahkan password untuk transaksi masal dan deleted
-
 Perbaikan 146 : 
 1. validasi resubmit : handle nilai kompen 0
 2. flag force auto update
@@ -13,4 +15,3 @@ Perbaikan 146 :
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
-
