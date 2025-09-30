@@ -1,19 +1,18 @@
 <appinfo>
-  <version>1.4.9</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update149.zip</url>
+  <version>1.5.0</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update150.zip</url>
   <isMust>false</isMust>
-  <deskripsi>Perbaikan 149 : tambah fitur cancel booking tam, partial, apapun status SPT-nya
+  <deskripsi>Perbaikan 150 : 
+1. Cancel booking TAM include jurnal PAY.005
+2. Shared pooling connection
+3. Setting commit size
 
+Perbaikan 149 : tambah fitur cancel booking tam, partial, apapun status SPT-nya
 Perbaikan 148 : 
 1. password bug fixing
 2. fixing atas fixing retur telo
 Perbaikan 147 : menambahkan password untuk transaksi masal dan deleted
-Perbaikan 146 : 
-1. validasi resubmit : handle nilai kompen 0
-2. flag force auto update
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
-
-
