@@ -1,7 +1,7 @@
 <appinfo>
   <version>1.5.0</version>
   <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update150.zip</url>
-  <isMust>false</isMust>
+  <isMust>true</isMust>
   <deskripsi>Perbaikan 150 : 
 1. Cancel booking TAM include jurnal PAY.005
 2. Shared pooling connection
@@ -16,3 +16,4 @@ Perbaikan 147 : menambahkan password untuk transaksi masal dan deleted
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
+
