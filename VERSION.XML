@@ -2,7 +2,9 @@
   <version>1.5.1</version>
   <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update151.zip</url>
   <isMust>false</isMust>
-  <deskripsi>Perbaikan 151 : Edit ENTERED_DATE
+  <deskripsi>Perbaikan 151 : 
+1. Edit ENTERED_DATE
+2. Edit BIlling Expired Date
 
 Perbaikan 150 : 
 1. Cancel booking TAM include jurnal PAY.005
@@ -16,4 +18,3 @@ Perbaikan 148 :
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
-
