@@ -1,7 +1,7 @@
 <appinfo>
   <version>1.5.1</version>
   <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update151.zip</url>
-  <isMust>true</isMust>
+  <isMust>false</isMust>
   <deskripsi>Perbaikan 151 : Edit ENTERED_DATE
 
 Perbaikan 150 : 
@@ -16,3 +16,4 @@ Perbaikan 148 :
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
+
