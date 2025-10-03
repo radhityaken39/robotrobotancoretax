@@ -1,19 +1,15 @@
 <appinfo>
-  <version>1.5.1</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update151.zip</url>
-  <isMust>false</isMust>
-  <deskripsi>Perbaikan 151 : 
-1. Edit ENTERED_DATE
-2. Edit BIlling Expired Date
+  <version>1.5.2</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update152.zip</url>
+  <isMust>true</isMust>
+  <deskripsi>Perbaikan 152 : 
+1. resubmit, validasi PBK (must update)
+2. Ganti UI
 
-Perbaikan 150 : 
-1. Cancel booking TAM include jurnal PAY.005
-2. Shared pooling connection
-3. Setting commit size
+Perbaikan 151 : 1. Edit ENTERED_DATE; 2. Edit BIlling Expired Date
+Perbaikan 150 : 1. Cancel booking TAM include jurnal PAY.005; 2. Shared pooling connection; 3. Setting commit size
 Perbaikan 149 : tambah fitur cancel booking tam, partial, apapun status SPT-nya
-Perbaikan 148 : 
-1. password bug fixing
-2. fixing atas fixing retur telo
+Perbaikan 148 : 1. password bug fixing; 2. fixing atas fixing retur telo
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
