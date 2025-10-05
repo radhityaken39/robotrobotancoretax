@@ -1,15 +1,17 @@
 <appinfo>
-  <version>1.5.2</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update152.zip</url>
+  <version>1.5.3</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update153.zip</url>
   <isMust>true</isMust>
-  <deskripsi>Perbaikan 152 : 
-1. resubmit, validasi PBK (must update)
-2. Ganti UI
-
+  <deskripsi>Perbaikan 153 : 
+1. Resubmit, validasi fully based on TA & TAD; 
+2. Support resubmit DVATR, SDTR, PECVATTR, DPECVATTR, NADFIT;
+3. View detil SPT DVATR, SDTR, PECVATTR, DPECVATTR, NADFIT;
+4. Nambah menu view TAM, TAD, BRL;
+5. Nambah menu kompen (tambah migrasi, edit, delete).
+  
+Perbaikan 152 : 1. Resubmit, validasi PBK; 2. Ganti UI
 Perbaikan 151 : 1. Edit ENTERED_DATE; 2. Edit BIlling Expired Date
 Perbaikan 150 : 1. Cancel booking TAM include jurnal PAY.005; 2. Shared pooling connection; 3. Setting commit size
-Perbaikan 149 : tambah fitur cancel booking tam, partial, apapun status SPT-nya
-Perbaikan 148 : 1. password bug fixing; 2. fixing atas fixing retur telo
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
