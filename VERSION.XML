@@ -1,8 +1,11 @@
 <appinfo>
-  <version>1.5.4</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update154.zip</url>
-  <isMust>true</isMust>
-  <deskripsi>Perbaikan 154 : 1. Performance load data besar;
+  <version>1.5.5</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update155.zip</url>
+  <isMust>false</isMust>
+  <deskripsi>Perbaikan 155 : 1. View detail event
+2. tweak beberapa form supaya lebih mudah d gunakan
+
+Perbaikan 154 : 1. Performance load data besar;
 2. Nambah menu bupot;
 3. Bug fix regenerate bpa1 dan bpa2;
 4. Bug fix view json detil spt;
@@ -13,12 +16,10 @@ Perbaikan 153 :
 3. View detil SPT DVATR, SDTR, PECVATTR, DPECVATTR, NADFIT;
 4. Nambah menu view TAM, TAD, BRL;
 5. Nambah menu kompen (tambah migrasi, edit, delete).
-  
-Perbaikan 152 : 1. Resubmit, validasi PBK; 2. Ganti UI
-Perbaikan 151 : 1. Edit ENTERED_DATE; 2. Edit BIlling Expired Date
-  </deskripsi>
+    </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
+
 
 
