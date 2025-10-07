@@ -1,25 +1,18 @@
 <appinfo>
-  <version>1.5.5</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update155.zip</url>
+  <version>1.5.6</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update156.zip</url>
   <isMust>false</isMust>
-  <deskripsi>Perbaikan 155 : 1. View detail event
+  <deskripsi>Perbaikan 156 : 1. Bug fix view json ICT_WTR, input kompen;
+2. Nambah menu NITKU.
+
+Perbaikan 155 : 1. View detail event
 2. tweak beberapa form supaya lebih mudah d gunakan
 
 Perbaikan 154 : 1. Performance load data besar;
 2. Nambah menu bupot;
 3. Bug fix regenerate bpa1 dan bpa2;
 4. Bug fix view json detil spt;
-
-Perbaikan 153 : 
-1. Resubmit, validasi fully based on TAM / TAD; 
-2. Support resubmit DVATR, SDTR, PECVATTR, DPECVATTR, NADFIT;
-3. View detil SPT DVATR, SDTR, PECVATTR, DPECVATTR, NADFIT;
-4. Nambah menu view TAM, TAD, BRL;
-5. Nambah menu kompen (tambah migrasi, edit, delete).
-    </deskripsi>
+  </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
-
-
-
