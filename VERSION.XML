@@ -1,17 +1,14 @@
 <appinfo>
-  <version>1.5.6</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update156.zip</url>
+  <version>1.5.7</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update157.zip</url>
   <isMust>false</isMust>
-  <deskripsi>Perbaikan 156 : 1. Bug fix view json ICT_WTR, input kompen;
-2. Nambah menu NITKU.
-
-Perbaikan 155 : 1. View detail event
-2. tweak beberapa form supaya lebih mudah d gunakan
-
-Perbaikan 154 : 1. Performance load data besar;
-2. Nambah menu bupot;
-3. Bug fix regenerate bpa1 dan bpa2;
-4. Bug fix view json detil spt;
+  <deskripsi>Perbaikan 157 : 
+1. handle exception saat resubmit spt
+2. view detail event bupot
+3. tambah filter pada form bupot 
+4. generate password harian
+5. update data bpe include receipt date-nya
+6. filter nitku include pic tku atau tanpa pic tku
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
