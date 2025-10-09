@@ -1,14 +1,11 @@
 <appinfo>
-  <version>1.5.7</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update157.zip</url>
-  <isMust>false</isMust>
-  <deskripsi>Perbaikan 157 : 
-1. handle exception saat resubmit spt
-2. view detail event bupot
-3. tambah filter pada form bupot 
-4. generate password harian
-5. update data bpe include receipt date-nya
-6. filter nitku include pic tku atau tanpa pic tku
+  <version>1.5.8</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update158.zip</url>
+  <isMust>true</isMust>
+  <deskripsi>Perbaikan 158 : 
+1. hotfix input kompen
+2. sync tax_type regis ke trp
+3. edit bookkeeping period
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
