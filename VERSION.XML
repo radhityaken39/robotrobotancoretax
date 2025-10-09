@@ -1,12 +1,12 @@
 <appinfo>
-  <version>1.5.8</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update158.zip</url>
-  <isMust>true</isMust>
-  <deskripsi>Perbaikan 158 : 
-1. hotfix input kompen
-2. sync tax_type regis ke trp
-3. edit bookkeeping period
+  <version>1.5.9</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update159.zip</url>
+  <isMust>false</isMust>
+  <deskripsi>Perbaikan 159 : 
+1. bugfix resubmit buat ngehandle SPT yg terbooking berkali-kali di-tam
+2. bugfix resubmit buat ngehandle null value di-tam
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
+
