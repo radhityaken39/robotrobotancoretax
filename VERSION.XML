@@ -1,12 +1,11 @@
 <appinfo>
-  <version>1.5.9</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update159.zip</url>
+  <version>1.6.0</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update160.zip</url>
   <isMust>false</isMust>
-  <deskripsi>Perbaikan 159 : 
-1. bugfix resubmit buat ngehandle SPT yg terbooking berkali-kali di-tam
-2. bugfix resubmit buat ngehandle null value di-tam
+  <deskripsi>Perbaikan 160 : 
+1. Menu cancel booking tam tersedia di UI baru
+2. bugfix cara ngebaca kompen used saat DELETE SPT
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
-
