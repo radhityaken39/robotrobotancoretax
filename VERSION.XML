@@ -1,10 +1,13 @@
 <appinfo>
-  <version>1.6.0</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update160.zip</url>
+  <version>1.6.1</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update161.zip</url>
   <isMust>false</isMust>
-  <deskripsi>Perbaikan 160 : 
-1. Menu cancel booking tam tersedia di UI baru
-2. bugfix cara ngebaca kompen used saat DELETE SPT
+  <deskripsi>Perbaikan 161 : 
+1. update signing_in_progress bupot secara multi select
+2. improve performance cancel tam/retry booking
+3. improve performance load brl di halaman TAM
+4. bug fix form gak kebuka saat pilih menu klik kanan
+5. bug fix background worker RetryQueueDeposit tidak mengupdate UI
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
