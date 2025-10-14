@@ -1,13 +1,12 @@
 <appinfo>
-  <version>1.6.1</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update161.zip</url>
+  <version>1.6.2</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update162.zip</url>
   <isMust>false</isMust>
-  <deskripsi>Perbaikan 161 : 
-1. update signing_in_progress bupot secara multi select
-2. improve performance cancel tam/retry booking
-3. improve performance load brl di halaman TAM
-4. bug fix form gak kebuka saat pilih menu klik kanan
-5. bug fix background worker RetryQueueDeposit tidak mengupdate UI
+  <deskripsi>Perbaikan 162 : 
+1. lihat pihak terkait dan role pihak terkait
+2. tambah validasi delete tam by brl hanya untuk PayWithDeposit
+3. hapus TKU (kasus NITKU ganda dan mengakibatkan prepop ke spt menjadi ganda)
+4. hapus tam per tam_record_id (untuk menangani kasus kb spt terbooking lebih dari sekali)
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
