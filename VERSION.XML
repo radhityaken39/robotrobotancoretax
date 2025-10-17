@@ -1,12 +1,9 @@
 <appinfo>
-  <version>1.6.3</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update163.zip</url>
+  <version>1.6.4</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update164.zip</url>
   <isMust>true</isMust>
-  <deskripsi>Perbaikan 163 : 
-1. set status reported bupot/faktur pindah ke new ui
-2. search bupot by penerima penghasilan untuk setahun penuh
-3. request vivi
-  </deskripsi>
+  <deskripsi>Perbaikan 164 : quick fix untuk handle SPT VAT_VATR (will implement on other tax return later)  </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
+
