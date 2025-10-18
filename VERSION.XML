@@ -1,9 +1,8 @@
 <appinfo>
-  <version>1.6.4</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update164.zip</url>
+  <version>1.6.5</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update165.zip</url>
   <isMust>true</isMust>
-  <deskripsi>Perbaikan 164 : quick fix untuk handle SPT VAT_VATR (will implement on other tax return later)  </deskripsi>
+  <deskripsi>Perbaikan 165 : mengganti semua query JSON_VALUE menjadi deserialized di apps</deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
-
