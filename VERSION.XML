@@ -1,8 +1,11 @@
 <appinfo>
-  <version>1.6.5</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update165.zip</url>
-  <isMust>true</isMust>
-  <deskripsi>Perbaikan 165 : mengganti semua query JSON_VALUE menjadi deserialized di apps</deskripsi>
+  <version>1.6.6</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update166.zip</url>
+  <isMust>false</isMust>
+  <deskripsi>Perbaikan 166 : 
+1. menu efaktur
+2. menu lampiran spt (VATR, WTR, WITR)
+3. dll</deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
