@@ -1,10 +1,11 @@
 <appinfo>
-  <version>1.6.9</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update169.zip</url>
+  <version>1.7.0</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update170.zip</url>
   <isMust>false</isMust>
-  <deskripsi>Perbaikan 169 : update reported faktur untuk PPN PUT dan PPN DM
+  <deskripsi>Perbaikan 170 : 
+1. tampilan rounding dpp, pph, gross dll pada daftar bupot
+2. update status bupot cancelled multirow
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
-
