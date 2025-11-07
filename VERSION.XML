@@ -1,11 +1,10 @@
 <appinfo>
-  <version>1.7.0</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update170.zip</url>
-  <isMust>false</isMust>
-  <deskripsi>Perbaikan 170 : 
-1. tampilan rounding dpp, pph, gross dll pada daftar bupot
-2. update status bupot cancelled multirow
+  <version>1.7.1</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update171.zip</url>
+  <isMust>true</isMust>
+  <deskripsi>Perbaikan 171 : update mekanisme WFP back to Draft
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
+
