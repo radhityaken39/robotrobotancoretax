@@ -1,8 +1,8 @@
 <appinfo>
-  <version>1.7.3</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update173.zip</url>
-  <isMust>false</isMust>
-  <deskripsi>Perbaikan 173 : tambah fitur update recovery error 503 saat submit spt
+  <version>1.7.4</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update174.zip</url>
+  <isMust>true</isMust>
+  <deskripsi>Perbaikan 174 : tambah fitur update recovery error 503 saat submit spt + update spt draft to wfp
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
