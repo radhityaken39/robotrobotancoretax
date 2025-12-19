@@ -1,8 +1,8 @@
 <appinfo>
-  <version>1.7.5</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update175.zip</url>
+  <version>1.7.6</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update176.zip</url>
   <isMust>true</isMust>
-  <deskripsi>Perbaikan 175 : resubmit include nomor bpe (dan get next nomor bpe secara manual)
+  <deskripsi>Perbaikan 176 : error handling generate no bpe
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
