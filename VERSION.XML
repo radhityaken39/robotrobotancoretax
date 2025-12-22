@@ -1,9 +1,10 @@
 <appinfo>
-  <version>1.7.6</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update176.zip</url>
-  <isMust>true</isMust>
-  <deskripsi>Perbaikan 176 : error handling generate no bpe
+  <version>1.7.7</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update177.zip</url>
+  <isMust>false</isMust>
+  <deskripsi>Perbaikan 177 : search spt by id
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
+
