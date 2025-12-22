@@ -1,8 +1,8 @@
 <appinfo>
-  <version>1.7.7</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update177.zip</url>
+  <version>1.7.8</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update178.zip</url>
   <isMust>false</isMust>
-  <deskripsi>Perbaikan 177 : search spt by id
+  <deskripsi>Perbaikan 178 : search spt by id
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
