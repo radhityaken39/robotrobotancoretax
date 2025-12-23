@@ -1,8 +1,8 @@
 <appinfo>
-  <version>1.7.8</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update178.zip</url>
-  <isMust>false</isMust>
-  <deskripsi>Perbaikan 178 : search spt by id
+  <version>1.7.9</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update179.zip</url>
+  <isMust>true</isMust>
+  <deskripsi>Perbaikan 179 : bug fix agar tidak selalu get new bpeNo saat resubmit
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
