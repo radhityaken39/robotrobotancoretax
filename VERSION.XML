@@ -1,8 +1,8 @@
 <appinfo>
-  <version>1.7.9</version>
+  <version>1.8.0</version>
   <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update179.zip</url>
-  <isMust>true</isMust>
-  <deskripsi>Perbaikan 179 : bug fix agar tidak selalu get new bpeNo saat resubmit
+  <isMust>false</isMust>
+  <deskripsi>Perbaikan 180 : FINAL UPDATE, perbaikan form_data max length
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
