@@ -1,10 +1,9 @@
 <appinfo>
-  <version>1.8.0</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update180.zip</url>
+  <version>1.8.1</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update181.zip</url>
   <isMust>false</isMust>
-  <deskripsi>Perbaikan 180 : FINAL UPDATE, perbaikan form_data max length
+  <deskripsi>Perbaikan 181 : menampilkan form_data ICT_RCITR
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
 </appinfo>
-
