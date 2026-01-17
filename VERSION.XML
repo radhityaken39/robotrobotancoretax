@@ -1,8 +1,8 @@
 <appinfo>
-  <version>1.8.1</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update181.zip</url>
+  <version>1.8.2</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update182.zip</url>
   <isMust>false</isMust>
-  <deskripsi>Perbaikan 181 : menampilkan form_data ICT_RCITR
+  <deskripsi>Perbaikan 182 : lots of cuci piring
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
