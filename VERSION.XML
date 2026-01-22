@@ -1,8 +1,8 @@
 <appinfo>
-  <version>1.8.3</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update183.zip</url>
+  <version>1.8.4</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update184.zip</url>
   <isMust>true</isMust>
-  <deskripsi>Perbaikan 183 : fix status esign bupot, untuk bupot normal amendment
+  <deskripsi>Perbaikan 184 : update logic null doc ai faktur/bupot
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
