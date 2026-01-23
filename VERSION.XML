@@ -1,8 +1,8 @@
 <appinfo>
-  <version>1.8.4</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update184.zip</url>
-  <isMust>true</isMust>
-  <deskripsi>Perbaikan 184 : update logic null doc ai faktur/bupot
+  <version>1.8.5</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update185.zip</url>
+  <isMust>false</isMust>
+  <deskripsi>Perbaikan 185 : tambah cek FTU, tambah update IS_CANCELLED accounting, tambah resubmit ICT_PITR
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
