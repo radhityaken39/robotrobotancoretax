@@ -1,8 +1,8 @@
 <appinfo>
-  <version>1.8.5</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update185.zip</url>
-  <isMust>false</isMust>
-  <deskripsi>Perbaikan 185 : tambah cek FTU, tambah update IS_CANCELLED accounting, tambah resubmit ICT_PITR
+  <version>1.8.6</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update186.zip</url>
+  <isMust>true</isMust>
+  <deskripsi>Perbaikan 186 : Fix validasi valid_to TAX_TYPE; menu Job Cleansing harian
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
