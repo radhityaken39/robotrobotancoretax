@@ -1,8 +1,8 @@
 <appinfo>
-  <version>1.8.7</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update187.zip</url>
-  <isMust>true</isMust>
-  <deskripsi>Perbaikan 187 : new job, fix bug delete spt
+  <version>1.8.8</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update188.zip</url>
+  <isMust>false</isMust>
+  <deskripsi>Perbaikan 188 : new job; resubmit (PITR, CITR), dll
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
