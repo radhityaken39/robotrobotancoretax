@@ -1,8 +1,8 @@
 <appinfo>
-  <version>1.9.0</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update190.zip</url>
-  <isMust>true</isMust>
-  <deskripsi>Perbaikan 190 : penyesuaian regen doc induk (kolom DOCUMENT_FORM_SIGN_STATUS), add new menu Monitoring Antrian Booking
+  <version>1.9.1</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update191.zip</url>
+  <isMust>false</isMust>
+  <deskripsi>Perbaikan 191 : job submit_timestamp null
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
