@@ -1,8 +1,8 @@
 <appinfo>
-  <version>1.9.1</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update191.zip</url>
+  <version>1.9.2</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update192.zip</url>
   <isMust>false</isMust>
-  <deskripsi>Perbaikan 191 : job submit_timestamp null
+  <deskripsi>Perbaikan 192 : job sync ulang ttt based on activation_date
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
