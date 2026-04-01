@@ -1,8 +1,8 @@
 <appinfo>
-  <version>1.9.2</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update192.zip</url>
+  <version>1.9.3</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update193.zip</url>
   <isMust>false</isMust>
-  <deskripsi>Perbaikan 192 : job sync ulang ttt based on activation_date
+  <deskripsi>Perbaikan 193 : fix cari bpatc bds penerima penghasilan
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
