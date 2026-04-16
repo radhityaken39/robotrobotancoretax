@@ -1,8 +1,8 @@
 <appinfo>
-  <version>1.9.5</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update195.zip</url>
+  <version>1.9.6</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update196.zip</url>
   <isMust>false</isMust>
-  <deskripsi>Perbaikan 195 : add fungsi edit tam amount, bug fix balikin wfp to draft
+  <deskripsi>Perbaikan 196 : cleansing pdf induk in progress; edit bookkeeping;
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
