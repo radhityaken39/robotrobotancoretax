@@ -1,8 +1,8 @@
 <appinfo>
-  <version>1.9.7</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update197.zip</url>
+  <version>1.9.8</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update198.zip</url>
   <isMust>false</isMust>
-  <deskripsi>Perbaikan 197 : multiple-select edit valid fromto profil
+  <deskripsi>Perbaikan 198 : bug fix multiple-select edit valid fromto pada TKU
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
