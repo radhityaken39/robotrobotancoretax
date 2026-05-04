@@ -1,8 +1,8 @@
 <appinfo>
-  <version>1.9.8</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update198.zip</url>
-  <isMust>false</isMust>
-  <deskripsi>Perbaikan 198 : bug fix multiple-select edit valid fromto pada TKU
+  <version>1.9.9</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update199.zip</url>
+  <isMust>true</isMust>
+  <deskripsi>Perbaikan 199 : restore form_data dari event WFP/Book; update password sakti;
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
