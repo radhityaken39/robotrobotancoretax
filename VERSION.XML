@@ -1,8 +1,8 @@
 <appinfo>
-  <version>1.9.9</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update199.zip</url>
+  <version>2.0.0</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update200.zip</url>
   <isMust>true</isMust>
-  <deskripsi>Perbaikan 199 : restore form_data dari event WFP/Book; update password sakti;
+  <deskripsi>Perbaikan 200 : bug fix resubmit;
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
