@@ -1,8 +1,8 @@
 <appinfo>
-  <version>2.0.0</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update200.zip</url>
-  <isMust>true</isMust>
-  <deskripsi>Perbaikan 200 : bug fix resubmit;
+  <version>2.0.1</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update201.zip</url>
+  <isMust>false</isMust>
+  <deskripsi>Perbaikan 201 : cleansing CITR SignBy null;
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
