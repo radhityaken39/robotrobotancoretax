@@ -1,8 +1,8 @@
 <appinfo>
-  <version>2.0.2</version>
-  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update202.zip</url>
+  <version>2.0.3</version>
+  <url>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/update203.zip</url>
   <isMust>false</isMust>
-  <deskripsi>Perbaikan 202 : refinement logic resubmit CITR;
+  <deskripsi>Perbaikan 203 : maksa region aplikasi menjadi US to handle bug fix on tibero data access yg gak support perbedaan regional setting DB dan PC user;
   </deskripsi>
   <versionUpdater>1.0.1</versionUpdater>
   <urlUpdater>https://github.com/radhityaken39/robotrobotancoretax/raw/refs/heads/main/updater101.zip</urlUpdater>
